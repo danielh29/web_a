@@ -1,0 +1,159 @@
+
+nav {
+    background-color: rgb(255, 255, 0);
+    width: 90%;
+    height: 45px;
+    overflow:hidden;
+    opacity: 0.2;
+    transition-duration: 1s;
+}
+
+nav:hover {
+    opacity: 5;
+}
+
+ul {
+    margin: 5px;
+}
+
+li {
+    float: left;
+    width: 20%;
+    text-align: center;
+    color: rgb(255, 255, 0);
+    list-style: none;
+    margin-top: -30px;
+    transition-duration: 0.8s;
+    align-items: center;
+}
+
+li:hover {
+    margin-top: 10px;
+}
+
+.icon {
+    width: 30px;
+    height: 30px;
+}
+
+.capa_ico {
+    width: 100%;
+    height: 30px;
+    float: left;
+    text-align: center;
+    padding: 5px 0 5px 0;
+    cursor: pointer;
+    position: relative;
+    top: -10px;
+
+}
+
+a {
+    text-decoration: none;
+    color:  rgb(112, 48, 160);
+    }
+#uno { background-color:  rgb(255, 255, 0) ;
+
+}
+Body{
+    background-color:rgba(111, 48, 160, 0.76) ;
+    background-image: url( ../img/Logo1.png) ;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+h1{
+    font-family: 'Redressed', cursive;
+    color: rgb(88, 87, 1);
+    background-color: rgb(199, 161, 227);
+    text-align: center;
+    border-radius: 90%;
+    font-size: 30px;
+}
+p {
+    background-color: rgb(199, 161, 227);
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    font-family: 'Redressed', cursive;
+    font: ;
+}
+
+image{
+    align-items: center;
+}
+
+footer{
+    background-color: rgb(255, 255, 0);
+    size: 100px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+table{
+    background-color: rgb(199, 161, 227);
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.fuente1{
+    color: rgb(52, 139, 52);
+    font-family: 'Audiowide', cursive;
+}
+
+.fuente2{
+    color: rgb(172, 49, 49);
+    font-family: 'Audiowide', cursive;
+
+}
+
+.tabla_productos{
+    background-color: rgba(133, 46, 155, 0.575);
+}
+
+.texto{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(223, 218, 149)
+}
+header{
+    background-color: yellow;
+    font-size: 45px;
+    color:purple;
+    text-align: center;
+    font-family: Harrington;
+}
+
+.header1{
+    font-size: 10px;
+    font-family: fantasy;
+}
+
+.computer{
+    font-family: Freestyle Script;
+}
+
+.fuente3{
+    font-family: 'Shadows Into Light', cursive;
+    border-style: dashed;
+    border-color: yellow;
+}
+
+.reduccion{
+width:fit-content; 
+width: 50%;
+margin: 0 auto;  
+}
+
+.menu_lateral{
+    font-size: 30px;
+    border-style: dotted;
+    border-color: yellow;
+}
+
+.destacado{
+    font-size: 30px;
+    color:yellow
+}
